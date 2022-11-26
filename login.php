@@ -27,5 +27,6 @@
                 <a href="register.php" class="signInMessage">Don't you have an account? Sign Up Here!</a>
             </div>
         </div>
+        
     </body>
 </html>
